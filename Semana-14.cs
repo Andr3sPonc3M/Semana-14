@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Tarea semana 14
+
+// Un ejemplo de árboles binarios, con tipos de datos primitivos (enteros, cadenas, etc.)
+
+using System;
 
 // Definición de la clase Nodo que representa cada elemento del árbol binario
 class Nodo
@@ -153,3 +157,9 @@ class Program
         } while (opcion != 6); // El menú se repite hasta que el usuario elija salir
     }
 }
+
+// Fin del programa.
+
+// Universidad Estatal Amazónica.
+
+// Andrés Ponce M.
